@@ -2,7 +2,7 @@
 Repositório de projetos pessoais
 
 ## Olá pessoal 👋.
-Gosto de aprender novas coisas!
+Gosto de aprender coisas novas!
 Sou estudante de Engenharia de Software. :computer:
 
  :blue_book:  &nbsp; Estou estudando na **UniCesumar**
